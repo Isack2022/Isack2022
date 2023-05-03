@@ -12,6 +12,8 @@
   </a>
 </div>
 
+<br>
+
 [![Minha linguagem](https://skillicons.dev/icons?i=html,css,js,mysql,laravel,php,c,java,spring,docker,linux,py,git)](https://skillicons.dev)
 
 
