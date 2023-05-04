@@ -14,9 +14,13 @@
 
 <br>
 
-[![Minha linguagem](https://skillicons.dev/icons?i=html,css,js,mysql,laravel,php,c,java,spring,docker,linux,py,git)](https://skillicons.dev)
+Tecnologia:
 
+[![Minha linguagem](https://skillicons.dev/icons?i=html,css,js,mysql,php,c,java,spring,docker,linux,git)](https://skillicons.dev)
 
+--- 
+Estudando: 
 
+[![Aprendedo](https://skillicons.dev/icons?i=laravel,py,react)](https://skillicons.dev)
 
 
