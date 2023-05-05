@@ -21,6 +21,6 @@ Tecnologia:
 --- 
 Estudando: 
 
-[![Aprendedo](https://skillicons.dev/icons?i=laravel,py,react)](https://skillicons.dev)
+[![Aprendedo](https://skillicons.dev/icons?i=laravel,py,react,jenkins)](https://skillicons.dev)
 
 
