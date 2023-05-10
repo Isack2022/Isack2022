@@ -16,11 +16,11 @@
 
 Tecnologia:
 
-[![Minha linguagem](https://skillicons.dev/icons?i=html,css,js,mysql,php,c,java,spring,docker,linux,git)](https://skillicons.dev)
+[![Minha linguagem](https://skillicons.dev/icons?i=html,css,js,mysql,php,c,java,spring,docker,jenkins,linux,git)](https://skillicons.dev)
 
 --- 
 Estudando: 
 
-[![Aprendedo](https://skillicons.dev/icons?i=laravel,py,react,jenkins)](https://skillicons.dev)
+[![Aprendedo](https://skillicons.dev/icons?i=laravel,py,react)](https://skillicons.dev)
 
 
