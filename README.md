@@ -1,5 +1,6 @@
-# Olá! Eu sou Isack👋👋
-<p text-align="justify"> Hoje sou estudante do ensino técnico de Desenvolvimentos de Sistemas ETEC e do Curso Técnico de Informática Senac </p> 
+# Olá! Eu sou Isack <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+
+ Hoje sou estudante do ensino técnico de Desenvolvimentos de Sistemas ETEC e do Curso Técnico de Informática Senac 
 
 ---
 ### 📊 GitHub Status:
