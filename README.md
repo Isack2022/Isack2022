@@ -3,7 +3,7 @@
  Hoje sou estudante do ensino técnico de Desenvolvimentos de Sistemas ETEC e do Curso Técnico de Informática Senac 
 
 ---
-### 📊 GitHub Status:
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Status:
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Isack2022&show_icons=true&theme=dark"/>
