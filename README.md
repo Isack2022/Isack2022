@@ -17,7 +17,7 @@
 
 Tecnologia:
 
-[![Minha linguagem](https://skillicons.dev/icons?i=html,css,js,nodejs,mysql,php,c,java,spring,docker,jenkins,linux,git)](https://skillicons.dev)
+[![Minha linguagem](https://skillicons.dev/icons?i=html,css,js,nodejs,mysql,mongodb,php,c,java,spring,docker,jenkins,linux,git,postman)](https://skillicons.dev)
 
 --- 
 Estudando: 
