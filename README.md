@@ -71,7 +71,7 @@ O projeto também utiliza Docker para containerização da aplicação e Jenkins
 🔗 [Ver projeto](https://github.com/Isack2022/Projeto-Jenkins)
 ---
 
-### 🍕 Sistema de Pizzaria
+### 🍕 Pizzaria Império
 
 Sistema web desenvolvido em equipe durante minha formação, com integração entre Front-end, Back-end e banco de dados MySQL.
 
@@ -93,6 +93,8 @@ Minhas principais contribuições:
 
 
 🌐 [Site](https://isack2022.github.io/Pizzaria-Imperio/index.html)
+
+> O projeto foi desenvolvido originalmente no repositório da equipe. Este repositório é um fork criado para manter minha versão do projeto no meu perfil e possibilitar a publicação da aplicação.
 
 
 > ⚠️ Status: O banco de dados utilizado durante o desenvolvimento foi posteriormente desativado. Por isso, algumas funcionalidades que dependem do servidor MySQL podem não estar disponíveis na versão publicada atualmente.
