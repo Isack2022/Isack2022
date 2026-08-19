@@ -46,13 +46,27 @@ Tecnologias: Node.js, Express, Python, Flask, MySQL, TensorFlow, OpenCV, MediaPi
 
 ---
 
-### ☀️ Sistema Solar Interativo
+### ⚙️ Projeto Jenkins — Spring Boot + CI/CD
 
-Projeto interativo desenvolvido utilizando JavaScript e p5.js, explorando animações, elementos visuais, imagens, áudio e interação com o usuário.
+Projeto desenvolvido durante minha formação com o objetivo de aplicar conceitos de desenvolvimento backend com Java e Spring Boot, integração com banco de dados e automação de processos utilizando Jenkins.
 
-**Tecnologias:** JavaScript, p5.js, HTML e CSS.
+A aplicação consiste em uma API REST para gerenciamento de tarefas, permitindo cadastrar, consultar, filtrar e atualizar atividades armazenadas em um banco de dados MySQL.
 
-🔗 [Ver projeto](https://github.com/Isack2022/Projeto-PI)
+O projeto também utiliza Docker para containerização da aplicação e Jenkins para automatização do processo de integração e entrega do projeto.
+
+- ⚙️ Funcionalidades
+- 📝 Cadastro de tarefas
+- 📋 Listagem de todas as tarefas
+- 🔎 Busca de tarefas por título
+- 🟢 Listagem de tarefas abertas
+- ✅ Listagem de tarefas finalizadas
+- 🔄 Atualização de tarefas
+- 🗄️ Persistência dos dados em MySQL
+- 🐳 Containerização da aplicação com Docker
+- 🔄 Automação do projeto utilizando Jenkins
+
+
+***Tecnologias***: Java, Springboot, Linux, Docker, Jenkins e MySQL.
 
 ---
 
