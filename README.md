@@ -32,19 +32,7 @@ Atualmente estou aprofundando meus conhecimentos em **Java, Spring Boot, JavaScr
 
 ## 📌 Projetos em destaque
 
-### 🖐️ Learn&Libras — TCC ETEC
 
-Projeto desenvolvido em equipe como Trabalho de Conclusão de Curso da ETEC, com o objetivo de auxiliar no aprendizado de Libras por meio de uma plataforma educacional.
-
-A aplicação integra um frontend web, um backend em Node.js, banco de dados MySQL e um módulo de reconhecimento de sinais desenvolvido em Python, utilizando técnicas de visão computacional e aprendizado de máquina.
-
-Minha participação envolveu principalmente o desenvolvimento do backend e integração entre os serviços da aplicação.
-
-Tecnologias: Node.js, Express, Python, Flask, MySQL, TensorFlow, OpenCV, MediaPipe e Docker.
-
-🔗 [Ver projeto](COLOCAR-LINK-AQUI)
-
----
 
 ### ⚙️ Projeto Jenkins — Spring Boot + CI/CD
 
